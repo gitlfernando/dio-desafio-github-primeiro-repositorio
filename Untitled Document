@@ -1,0 +1,9 @@
+comandos básicos
+
+git status
+
+git add . 
+
+git commit -m "inclusão de comandos básicos do git"
+
+git push origin main 
